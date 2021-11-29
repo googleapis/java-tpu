@@ -126,8 +126,7 @@ public final class CloudTpuProto {
     java.lang.String[] descriptorData = {
       "\n"
           + "#google/cloud/tpu/v1/cloud_tpu.proto\022\023g"
-          + "oogle.cloud.tpu.v1\032\034google/api/annotatio"
-          + "ns.proto\032\027google/api/client.proto\032\037google/api/field_behavior.proto\032\031google/api/resource.proto\032#google/longrunning/operations.proto\032\037google/protobuf/timestamp.proto\"9\n"
+          + "oogle.cloud.tpu.v1\032\034google/api/annotations.proto\032\027google/api/client.proto\032\037google/api/field_behavior.proto\032\031google/api/resource.proto\032#google/longrunning/operations.proto\032\037google/protobuf/timestamp.proto\"9\n"
           + "\020SchedulingConfig\022\023\n"
           + "\013preemptible\030\001 \001(\010\022\020\n"
           + "\010reserved\030\002 \001(\010\"3\n"
@@ -294,8 +293,7 @@ public final class CloudTpuProto {
           + "\026ListTensorFlowVersions\0222.google.cloud.tpu.v1.ListTensorFlowVersionsRequest\0323.google.cloud.tpu.v1.ListTensorFlowVersionsResponse\"G\202\323\344\223\0028\0226/v1/{parent=projects/*/locations/*}/tensorflowVersions\332A\006parent\022\267\001\n"
           + "\024GetTensorFlowVersion\0220.google.cloud.tpu.v1.GetTensorFlowVersionRequest\032&.google.cloud.tpu.v1.TensorFlowVersion\"E\202\323\344\223\0028\0226/v1/{name=projects/*/locations/*/tensorflowVersions/*}\332A\004name\022\302\001\n"
           + "\024ListAcceleratorTypes\0220.google.cloud.tpu.v1.ListAcceleratorTypesRequest\0321.google.cloud.tpu.v1.ListAcceleratorTypesResponse\"E\202\323\344\223\0026\0224/v1/{parent=projects/*/locations/*}/acceleratorTypes\332A\006parent\022\257\001\n"
-          + "\022GetAcceleratorType\022..google.cloud.tpu.v1.GetAcceleratorTypeRequest\032$"
-          + ".google.cloud.tpu.v1.AcceleratorType\"C\202\323\344\223\0026\0224/v1/{name=projects/*/locations/*/acceleratorTypes/*}\332A\004name\032F\312A\022tpu.googleapis.com\322A.https://www.googleapis.com/auth/cloud-platformBb\n"
+          + "\022GetAcceleratorType\022..google.cloud.tpu.v1.GetAcceleratorTypeRequest\032$.google.cloud.tpu.v1.AcceleratorType\"C\202\323\344\223\0026\0224/v1/{name=projects/*/locations/*/acceleratorTypes/*}\332A\004name\032F\312A\022tpu.googleapis.com\322A.https://www.googleapis.com/auth/cloud-platformBb\n"
           + "\027com.google.cloud.tpu.v1B\r"
           + "CloudTpuProtoP\001Z6google.golang.org/genproto/googleapis/cloud/tpu/v1;tpub\006proto3"
     };
