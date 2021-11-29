@@ -125,8 +125,7 @@ public final class CloudTpuProto {
   static {
     java.lang.String[] descriptorData = {
       "\n"
-          + "#google/cloud/tpu/v1/cloud_tpu.proto\022\023g"
-          + "oogle.cloud.tpu.v1\032\034google/api/annotations.proto\032\027google/api/client.proto\032\037google/api/field_behavior.proto\032\031google/api/resource.proto\032#google/longrunning/operations.proto\032\037google/protobuf/timestamp.proto\"9\n"
+          + "#google/cloud/tpu/v1/cloud_tpu.proto\022\023google.cloud.tpu.v1\032\034google/api/annotations.proto\032\027google/api/client.proto\032\037google/api/field_behavior.proto\032\031google/api/resource.proto\032#google/longrunning/operations.proto\032\037google/protobuf/timestamp.proto\"9\n"
           + "\020SchedulingConfig\022\023\n"
           + "\013preemptible\030\001 \001(\010\022\020\n"
           + "\010reserved\030\002 \001(\010\"3\n"
