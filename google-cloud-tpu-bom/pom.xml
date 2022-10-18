@@ -56,7 +56,7 @@
       <dependency>
         <groupId>com.google.cloud</groupId>
         <artifactId>google-cloud-tpu</artifactId>
-        <version>2.4.1-SNAPSHOT</version><!-- {x-version-update:google-cloud-tpu:current} -->
+        <version>2.5.0</version><!-- {x-version-update:google-cloud-tpu:current} -->
       </dependency>
       <dependency>
         <groupId>com.google.api.grpc</groupId>
