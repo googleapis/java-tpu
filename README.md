@@ -26,7 +26,7 @@ If you are using Maven, add this to your pom.xml file:
 <dependency>
   <groupId>com.google.cloud</groupId>
   <artifactId>google-cloud-tpu</artifactId>
-  <version>2.4.0</version>
+  <version>2.5.0</version>
 </dependency>
 
 ```
