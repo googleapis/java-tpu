@@ -6,3 +6,5 @@ grpc-google-cloud-tpu-v1:2.4.0:2.4.1-SNAPSHOT
 grpc-google-cloud-tpu-v2alpha1:2.4.0:2.4.1-SNAPSHOT
 proto-google-cloud-tpu-v1:2.4.0:2.4.1-SNAPSHOT
 proto-google-cloud-tpu-v2alpha1:2.4.0:2.4.1-SNAPSHOT
+proto-google-cloud-tpu-v2:2.4.0:2.4.1-SNAPSHOT
+grpc-google-cloud-tpu-v2:2.4.0:2.4.1-SNAPSHOT
