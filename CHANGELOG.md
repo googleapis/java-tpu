@@ -1,5 +1,13 @@
 # Changelog
 
+## [2.4.1](https://github.com/googleapis/java-tpu/compare/v2.4.0...v2.4.1) (2023-05-31)
+
+
+### Dependencies
+
+* Update dependency com.google.api.grpc:grpc-google-cloud-tpu-v1 to v2.5.0 ([#250](https://github.com/googleapis/java-tpu/issues/250)) ([93d3749](https://github.com/googleapis/java-tpu/commit/93d3749d2f1696efe9d05e5d99e6b0a61685ac0f))
+* Update dependency com.google.api.grpc:grpc-google-cloud-tpu-v2alpha1 to v2.5.0 ([#251](https://github.com/googleapis/java-tpu/issues/251)) ([1133c32](https://github.com/googleapis/java-tpu/commit/1133c321126a12c1b42725f6d9e431ea588eb91f))
+
 ## [2.4.0](https://github.com/googleapis/java-tpu/compare/v2.3.5...v2.4.0) (2022-10-03)
 
 
